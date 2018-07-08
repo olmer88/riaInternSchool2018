@@ -1,1 +1,1 @@
-console.log('this is my first commit');
+console.log('this is new log');
