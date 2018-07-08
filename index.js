@@ -1,1 +1,1 @@
-console.log('this is new log');
+console.log('this is log after merge');
