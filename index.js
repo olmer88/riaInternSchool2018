@@ -1,1 +1,1 @@
-console.log('I changed this file again');
+console.log('this is log after merge');
